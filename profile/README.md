@@ -3,10 +3,10 @@
 We are a Research Lab apart of the Dept. of Computer Science at Kansas State University, speicalizing
 in Machine Learning!
 
-## Extra links
+### Find us elsewhere!
 
-[KDDResarch - Huggingface](https://huggingface.co/KDDResearch)
-[]
+- [KDDResarch - Huggingface](https://huggingface.co/KDDResearch)
+- [KDDResarch - X](https://x.com/KDDResearch)
 
 <!--
 
